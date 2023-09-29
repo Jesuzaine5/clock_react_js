@@ -1,2 +1,2 @@
 # clock_react_js
- my new clock
+  its uses javascript language
